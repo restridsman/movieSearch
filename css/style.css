@@ -1,0 +1,29 @@
+
+
+#movies img, #movie img{
+    width: 100%;
+}
+
+@media(min-width:960px){
+#movies .col-md-3 .well{
+    height: 390px;
+}
+
+#movies .col-md-3 img{
+    height: 240px;
+}
+}
+
+.navbar-brand{
+    margin: 15px 0px 5px 10px;
+    font-size: 30px;
+}
+
+.well{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.btn-primary {
+    margin-bottom: 20px;
+}
